@@ -1,3 +1,5 @@
+> **This repository has moved to [holder-framework](https://github.com/HolderTeam/holder-framework).** The Python client now lives in [`python/`](https://github.com/HolderTeam/holder-framework/tree/main/python), with its full history. This repository is kept as an archive and is no longer updated.
+
 # holder-python
 
 Experimental Python HTTP client for a running `holder-daemon`. This is separate
